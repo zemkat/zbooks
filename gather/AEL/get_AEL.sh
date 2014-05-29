@@ -6,6 +6,8 @@
 # Requirements:
 #    vim (vimdiff)
 #    curl
+#    grep
+#    sed
 #
 # (c) 2014 Kathryn Lybarger. CC-BY-SA
 #
